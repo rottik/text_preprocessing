@@ -1,0 +1,6 @@
+engine=MorphoDiTa
+language=cs
+dataDir=C:\Users\Michal\Documents\Visual Studio 2013\Projects\Preprocessing\Preprocessing\bin\Debug\data
+morphoditeExe=C:\Users\Michal\Documents\Visual Studio 2013\Projects\Preprocessing\Preprocessing\bin\Debug\morphodita-1.3.0-bin\bin-win32\run_tagger.exe
+morphoditeData=C:\Users\Michal\Documents\Visual Studio 2013\Projects\Preprocessing\Preprocessing\bin\Debug\czech-morfflex-pdt-131112\czech-morfflex-pdt-131112-raw_lemmas.tagger-fast
+python=C:\Python27\python.exe
